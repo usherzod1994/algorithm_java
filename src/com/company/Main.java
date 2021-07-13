@@ -1,18 +1,11 @@
 package com.company;
 
+import com.company.problems.easy.RomanToInteger_13;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Hello world!");
-        int x = 1999;
-        int y = 10;
-        while (x % y == 0) {
-            y *= 10;
-        }
-        y = y/10;
-
-        System.out.println(y);
-
+        int mcmxciv = RomanToInteger_13.romanToInt("MCMXCIV");
+        System.out.println(mcmxciv);
     }
 }
