@@ -7,7 +7,7 @@ I've created this repository to learn about algorithms. I am adding solutions co
 ## Problems:
 
 ### Arrays
-1) [Two Sum](https://github.com/cocoexe/AlgoDS/blob/master/src/main/java/uz/cocoexe/problems/easy/TwoSum.java)
+1) [Two Sum](https://github.com/usherzod1994/algorithm_java/blob/master/src/com/company/problems/easy/TwoSum_1.java)
 
 ### Math
 1) [Reverse Integer](https://github.com/cocoexe/AlgoDS/blob/master/src/main/java/uz/cocoexe/problems/easy/ReverseInteger.java)
