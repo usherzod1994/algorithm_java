@@ -1,4 +1,3 @@
-English | [Russian](https://github.com/cocoexe/AlgoDS/blob/master/README-RU.md)
 
 # Algorithms and Data Structures
 This is the collection of **Algorithms, Data Structures** and **Interview Questions** with solutions.
