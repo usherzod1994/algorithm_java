@@ -1,4 +1,4 @@
-package com.company.problems;
+package com.company.problems.easy;
 
 public class ValidPerfectSquare_367 {
     public static void main(String[] args){

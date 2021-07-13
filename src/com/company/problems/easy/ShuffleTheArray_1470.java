@@ -1,4 +1,4 @@
-package com.company.problems;
+package com.company.problems.easy;
 
 public class ShuffleTheArray_1470 {
     public static void main(String[] args) {

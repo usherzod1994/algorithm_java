@@ -1,4 +1,4 @@
-package com.company.problems;
+package com.company.problems.easy;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

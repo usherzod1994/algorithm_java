@@ -1,4 +1,4 @@
-package com.company.problems;
+package com.company.problems.easy;
 
 
 public class DefangingAnIPAddress_1108 {
